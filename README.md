@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JustDKDan, I am a student
 - 👀 I’m interested in software development and videogame development
-- 🌱 I’m currently learning how to code in C++
-- 💞️ I’m looking to collaborate on anything involving beginner friendly C++ code
+- 🌱 I’m currently learning how to code in C#
+- 💞️ I’m looking to collaborate on anything involving beginner friendly C# code
 - 📫 How to reach me I am available on Instagram as JustDKDan
 
 <!---
